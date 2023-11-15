@@ -15,11 +15,6 @@
 			"url": "https://agit.ai/hu/hcr/raw/branch/master/%E7%9F%AD%E5%89%A7.json",
 			"name": "👑短剧专线👑"
 		},
-	
-		{
-			"url": "http://cf.weixine.net/ysc.json",
-			"name": "👑运输车姐👑"
-		},
 		
 		{
 			"url": "http://ysc.weixine.net:88/荷城茶秀",
@@ -40,14 +35,7 @@
 		{
 			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
 			"name": "👑最爱香佬👑"
-		},
-		{
-			"url": "https://pastebin.com/raw/5NHaxyGR",
-			"name": "👑道长大佬👑"
-		},
-		{
-			"url": "http://yydsys.top/duo",
-			"name": "👑多多大佬👑"
 		}
+		
 	]
 }
